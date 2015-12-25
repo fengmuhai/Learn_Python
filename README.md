@@ -40,9 +40,9 @@ git commit -m 'update'
 git push
 
 如果在本地项目中增加了新的文件：
-git add .
-git commit -m 'add'
-git push
+git add . 
+git commit -m 'add' 
+git push 
 
 提交代码的时候也可以用：$ git push origin master
 如果报错：
