@@ -36,7 +36,9 @@ git clone git@github.com:zhuyujia/css.git
 四、修改，提交，上传
 我们可以修改克隆到本地的项目，修改完成后先要 add 修改的文件（. 表示全部），然后填写 commit，最后在 push 到 github。
 git add .
+
 git commit -m 'update'
+
 git push
 
 如果在本地项目中增加了新的文件：
